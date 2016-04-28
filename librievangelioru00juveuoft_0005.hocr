@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./librievangelioru00juveuoft_0005.png"; bbox 0 0 2066 3192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 342 366 1763 449">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 342 366 1763 449">
+     <span class='ocr_line' id='line_1_1' title="bbox 342 366 1763 449; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 342 368 411 449; x_wconf 79' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 461 367 805 449; x_wconf 83' lang='lat' dir='ltr'>VETTII</span> <span class='ocrx_word' id='word_1_3' title='bbox 859 367 1282 448; x_wconf 82' lang='lat' dir='ltr'><strong>AQUILINI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1348 366 1763 447; x_wconf 81' lang='lat' dir='ltr'>IUVENCI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 244 663 1863 818">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 244 663 1863 818">
+     <span class='ocr_line' id='line_1_2' title="bbox 244 663 1863 818; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 244 724 595 816; x_wconf 79' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 675 663 1602 818; x_wconf 73' lang='lat' dir='ltr'><strong>EVANGELIORUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1673 725 1863 817; x_wconf 85' lang='lat'>1111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 452 1247 1657 1303">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 452 1247 1657 1303">
+     <span class='ocr_line' id='line_1_3' title="bbox 452 1247 1657 1303; baseline 0.002 -13"><span class='ocrx_word' id='word_1_8' title='bbox 452 1247 533 1290; x_wconf 91' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 566 1248 755 1292; x_wconf 88' lang='lat' dir='ltr'><strong>FIDEM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 786 1249 1055 1295; x_wconf 87' lang='lat' dir='ltr'>CODICUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1087 1247 1657 1303; x_wconf 84' lang='lat' dir='ltr'><strong>ANTIQUISSIMORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 887 1499 1219 1534">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 887 1499 1219 1534">
+     <span class='ocr_line' id='line_1_4' title="bbox 887 1499 1219 1534; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 887 1499 1219 1534; x_wconf 77' lang='lat' dir='ltr'>OOOOOOOOOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 860 2914 1241 2950">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 860 2914 1241 2950">
+     <span class='ocr_line' id='line_1_5' title="bbox 860 2914 1241 2950; baseline 0.005 -3"><span class='ocrx_word' id='word_1_13' title='bbox 860 2914 1241 2950; x_wconf 82' lang='lat' dir='ltr'>CCCCCCCCCCCC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
